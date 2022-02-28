@@ -1,0 +1,5 @@
+10.40.25.10 - - [27/Feb/2022:17:41:55 +0000] "GET /slam/home HTTP/1.1" 200 2570 http-bio-8080-exec-1 1007
+10.40.25.10 - - [27/Feb/2022:17:41:59 +0000] "GET /slam/DeleteSlam?slamId=4 HTTP/1.1" 200 2102 http-bio-8080-exec-2 36
+10.40.25.10 - - [27/Feb/2022:17:42:01 +0000] "GET /slam/DeleteSlam?slamId=5 HTTP/1.1" 200 1588 http-bio-8080-exec-3 9
+10.40.25.10 - - [27/Feb/2022:17:42:03 +0000] "GET /slam/UpdateSlam?slamId=6 HTTP/1.1" 200 749 http-bio-8080-exec-4 64
+10.40.25.10 - - [27/Feb/2022:17:42:09 +0000] "POST /slam/UpdateSlam HTTP/1.1" 200 1596 http-bio-8080-exec-5 8
